@@ -1,0 +1,1 @@
+# has-type-class-pattern
